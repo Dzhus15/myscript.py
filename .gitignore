@@ -11,9 +11,9 @@ from telegram.error import NetworkError
 from telegram import Bot
 
 
-API_KEY_TTS = "1cb58f61b6786aea0cf917afb8a923d4"
-API_KEY_TELEGRAM = "6298052506:AAGlQAlN0T5RunBhkJhpGKEg-EYOHvw5wA0"
-TTS_API_URL = "https://texttospeech.ru/api/v2/synthesize"
+API_KEY_TTS = "1cb58f61b6782332223
+API_KEY_TELEGRAM = 6298052506:AAGlQAlN0T5RunBhkJhpGK
+TTS_API_URL = "https://ozvuchka
 FREE_VOICE_CODES = ["ru-RU001"]
 PAID_VOICE_CODES = ["ru-RU020", "ru-RU021"]
 VOICE_CODES = FREE_VOICE_CODES + PAID_VOICE_CODES
